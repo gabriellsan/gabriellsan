@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Eu sou Gabriel Santana👋<br><br>📒 Faço Bacharelado em Sistemas de Informação pelo IFS<br>😄 Pronouns: Ele/dele
+Olá! Eu sou Gabriel Santana👋<br><br>📒 Faço Bacharelado em Sistemas de Informação pelo IFS<br>😄 Pronouns: Ele/dele <br>📓Atualmente aprendo React e TypeScript
 
 
 ## 🌐 Socials:
