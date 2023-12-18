@@ -1,5 +1,5 @@
 # 💫 About Me:
-📒 Faço Bacharelado em Sistemas de Informação pelo IFS<br>😄 Pronouns: Ele/dele<br>📓Atualmente aprendendo React e TypeScript
+📒 Faço Bacharelado em Sistemas de Informação pelo IFS<br>📓Atualmente aprendendo React e TypeScript
 
 
 ## 🌐 Socials:
