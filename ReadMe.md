@@ -29,6 +29,10 @@ Secondary Stack:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 <br>
+DataBase:
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gabriellsan&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
